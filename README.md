@@ -13,41 +13,21 @@
 
 ## 🛠 Çalıştığım Teknolojiler
 
-**Diller & Çatılar**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**AI / Agentic LLM**
+**Agentic LLM & RAG**
 ![Claude](https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B35?style=for-the-badge&logo=crewai&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/-Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
 
-**Makine Öğrenmesi & Veri**
+**Makine Öğrenmesi & Açıklanabilirlik**
 ![XGBoost](https://img.shields.io/badge/-XGBoost-EB1C24?style=for-the-badge&logo=xgboost&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/-CatBoost-FFCC00?style=for-the-badge&logo=catboost&logoColor=black)
-![LightGBM](https://img.shields.io/badge/-LightGBM-2C8ED1?style=for-the-badge&logo=lightgbm&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/-Optuna-2C7BB6?style=for-the-badge&logo=optuna&logoColor=white)
 ![SHAP](https://img.shields.io/badge/-SHAP-3F4F75?style=for-the-badge&logo=shap&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Endüstriyel & Otomasyon**
+**Endüstriyel Veri & Otomasyon**
 ![OPC UA](https://img.shields.io/badge/-OPC%20UA-005A9C?style=for-the-badge&logo=siemens&logoColor=white)
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-**Altyapı & Görselleştirme**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![D3.js](https://img.shields.io/badge/-D3.js-F9A03C?style=for-the-badge&logo=d3dotjs&logoColor=white)
 
 ---
 

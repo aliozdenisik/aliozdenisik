@@ -54,8 +54,8 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliozdenisik&layout=compact&theme=tokyonight&hide=html,css&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=aliozdenisik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aliozdenisik&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=480" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliozdenisik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages" />
 </p>
 
 ---
